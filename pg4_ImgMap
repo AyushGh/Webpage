@@ -3,12 +3,13 @@
 <title> Image Mapping</title>
 </head>
 <body>
-<img src="img1.jpg" width="145" height="126" usemap="#planetmap">
+this is a page showing image mapping
 
 <map name="planetmap">
   <area shape="rect" coords="0,0,82,126" href="pg1_Intro.html">
   <area shape="circle" coords="90,58,3" href="pg2.html">
   <area shape="circle" coords="124,58,8" href="pg3.html">
 </map>
+<img src="img1.jpg" width="145" height="126" usemap="#planetmap">
 </body>
 </html>
