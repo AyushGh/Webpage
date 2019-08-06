@@ -6,9 +6,9 @@
 <img src="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Ftinypng.com%2Fimages%2Fsocial%2Fwebsite.jpg&imgrefurl=https%3A%2F%2Ftinypng.com%2F&docid=CktKca5gFHj7IM&tbnid=ShQnriFk8AK93M%3A&vet=10ahUKEwiTqOePwO3jAhUGfH0KHSDzBykQMwiwASgmMCY..i&w=1020&h=510&bih=789&biw=1440&q=image&ved=0ahUKEwiTqOePwO3jAhUGfH0KHSDzBykQMwiwASgmMCY&iact=mrc&uact=8" width="145" height="126" alt="Planets" usemap="#planetmap">
 
 <map name="planetmap">
-  <area shape="rect" coords="0,0,82,126" href=".html" alt="Sun">
-  <area shape="circle" coords="90,58,3" href=".html" alt="Mercury">
-  <area shape="circle" coords="124,58,8" href=".html" alt="Venus">
+  <area shape="rect" coords="0,0,82,126" href="pg1_Intro.html">
+  <area shape="circle" coords="90,58,3" href="pg2.html">
+  <area shape="circle" coords="124,58,8" href="pg3.html">
 </map>
 </body>
 </html>
