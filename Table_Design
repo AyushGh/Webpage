@@ -2,7 +2,6 @@
 <head>
 <title>Table Design</table>
 </head>
-<body>
 <table border="3" align="center">
 <caption>Results</caption>
 <tr> <th rowspan=2>Name</th> <th colspan=2>Marks</th> </tr>
@@ -10,5 +9,4 @@
 <tr> <td>Ayush</td> <td>28</td> <td>54</td> </tr>
 <tr> <td>Ayan</td> <td>21</td> <td>44</td> </tr>
 <tr> <td>Akash</td> <td>18</td> <td>60</td> </tr>
-</body>
 </html>
